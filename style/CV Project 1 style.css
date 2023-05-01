@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #1C9CEA;
+    
+}
+
+.container{
+    max-width: 1000px;
+    height: 100%;
+    background-color: silver;
+    margin: 0 auto;
+    padding: 15px;
+}
+.Profile-Photo{
+  width: 120px;
+  height: 100px;  
+  border: 3px solid black;
+  border-radius: 50%;
+  float: left;
+}
+.header-bio{
+    float: left;
+    padding: 20px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color:#D86F2E ;
+}
+.header-contact{
+    float: right;
+    padding: 27px;
+}
+
+.header-contact a{
+    text-decoration:none ;
+    color:  green;;
+    font-weight: bold ;
+}
+.header-contact a:hover{
+    text-decoration: underline;
+    color: rgb(243, 13, 13)
+}
+.div-clear{
+    clear: both;
+    
+}
+hr{
+    border: 3px solid black;
+    border-width: 100%;
+    margin: 20pxs;
+    border-bottom: none;
+    
+}
+
+/*Personal section start here*/
+
+#personal section{
+
+
+}
+
+.content{
+   
+    margin: 25px ;
+}
+
+.left-div{
+float: left;
+width: 30%;
+
+}
+
+.right-div{
+float: left;
+width: 70%;
+font-size: 1rem;
+color: black;
+}
+.common-hr{
+    border: 1px solid blue;
+    width: 100%;
+    margin-top: 15px;
+    
+}
+/* personal section end here */
+
+/* Career section star here */
+
+#career-objective{
+
+}
+.career-div{
+
+    margin: 25px;
+   
+
+}
+
+.career-heading{
+    float: left;
+   width: 30%;
+}
+
+.career-details{
+    float: left;
+    width: 70%;
+}
+}
+
+/*Career section star here/*
+
+/* experience section star here */
+#experience-section{
+
+
+}
+.experience{
+
+    margin: 25px;
+
+}
+
+.experience-title{
+    float: left;
+    width: 30%;
+}
+
+.working-details{
+    float: left;
+    width: 70%;
+
+}
+
+.IT-Complaince{
+
+
+}
+
+.IT-Support-engineer{
+
+
+}
+.working-year1{
+     color: crimson;
+}
+
+.working-history1{
+text-align: justify;
+
+}
+
+
+.working-year2{
+     color: blue;
+}
+
+.working-history2{
+    text-align: justify;
+}
+
+/* experience section end here */
+
+/* skill section start here */
+
+#key-skill-section{
+
+
+}
+
+.skill{
+
+    margin: 25px;
+
+}
+
+.skill-title{
+float: left;
+width: 30%;
+
+}
+.skill-list{
+    float: left;
+    width: 70%;
+    list-style-position: inside;
+}
+
+/* skill section end here */
+
+/* Education section start here */
+.education-content{
+    margin: 25px;
+}
+.edu-left-div{
+float: left;
+width: 30%;
+}
+.edu-tamplate-left{
+float: left;
+width: 35%;
+
+}
+.edu-tamplate-right{
+float: right;
+width: 35%;
+
+}
+/* Education section end here */
+
+/* References section start here */
+
+.references-content{
+    margin: 25px;
+}
+.ref-left-div{
+
+    float: left;
+    width: 30%;
+
+}
+.ref-tamplate-left{
+    float: left;
+    width: 35%;
+}
+.ref-tamplate-right{
+    float: right;
+    width: 35%;
+}
+
+.ref-tamplate-left p a{
+    text-decoration: none;
+    color:black
+    
+}
+
+.ref-tamplate-left p a:hover{
+ color: brown;
+ font-weight: bold ;
+ font-size: 1rem;
+}
+/* References section end here */
+
+/* Footer start here */
+
+.footer-container{
+
+    background-color: black;
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+
+}
+.footer-container a{
+    text-decoration: none;
+    color: beige;
+    padding: 20px;
+}
+.footer-container p{
+    color: beige;
+    margin-top: 20px; 
+}
+
+
+/* Footer end here*/
